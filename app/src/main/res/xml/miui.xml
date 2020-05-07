@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/app_name"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:key="syxz" />
+
+    <PreferenceCategory android:title="@string/hy" />
+    <CheckBoxPreference
+        android:key="hykg" />
+    <PreferenceScreen
+        android:key="glhy" />
+
+    <PreferenceCategory android:title="@string/ztl" />
+    <ListPreference
+        android:title="显秒&amp;布局切换"
+        android:defaultValue="1"
+        android:entries="@array/xmqh"
+        android:entryValues="@array/xmqh_values"
+        android:key="xmqh" />
+    <ListPreference
+        android:title="时钟格式-预设"
+        android:defaultValue="1"
+        android:entries="@array/sjys"
+        android:entryValues="@array/sjys_values"
+        android:key="sjys" />
+    <PreferenceScreen
+        android:key="szgs_12h" />
+    <PreferenceScreen
+        android:key="szgs_24h" />
+    <ListPreference
+        android:title="选择天气布局"
+        android:defaultValue="1"
+        android:entries="@array/tqbj"
+        android:entryValues="@array/tqbj_values"
+        android:key="tqbj" />
+    <PreferenceScreen
+        android:key="tqdx" />
+    <PreferenceScreen
+        android:key="ztlszdx" />
+    <PreferenceScreen
+        android:key="xlszdx" />
+    <PreferenceScreen
+        android:key="szsbj" />
+    <CheckBoxPreference
+        android:key="ycnz"/>
+    <CheckBoxPreference
+        android:key="ycly"/>
+    <CheckBoxPreference
+        android:key="ycej"/>
+    <CheckBoxPreference
+        android:key="ycyl"/>
+    <CheckBoxPreference
+        android:key="ycfx"/>
+    <CheckBoxPreference
+        android:key="ycdw"/>
+    <CheckBoxPreference
+        android:key="ychd"/>
+    <PreferenceScreen
+        android:key="dcys" />
+    <ListPreference
+        android:title="选择隐藏SIM卡图标"
+        android:defaultValue="1"
+        android:entries="@array/sim"
+        android:entryValues="@array/sim_values"
+        android:key="sim" />
+
+
+
+    <PreferenceCategory android:title="@string/zm" />
+    <CheckBoxPreference
+        android:key="ycmz"/>
+    <CheckBoxPreference
+        android:key="ycdl"/>
+    <PreferenceScreen
+        android:key="zmbj_x" />
+    <PreferenceScreen
+        android:key="tbdx" />
+    <PreferenceScreen
+        android:key="zmbj_y" />
+    <PreferenceScreen
+        android:key="wjj" />
+
+
+
+    <PreferenceCategory android:title="@string/ksct" />
+    <PreferenceScreen
+        android:key="ksct" />
+    <PreferenceScreen
+        android:key="ctbj_x" />
+    <PreferenceScreen
+        android:key="ctbj_y" />
+
+    <PreferenceCategory android:title="@string/suoping" />
+    <CheckBoxPreference
+        android:key="xptq" />
+
+
+    <PreferenceCategory android:title="@string/xs" />
+    <PreferenceScreen
+        android:key="pmmd" />
+    <ListPreference
+        android:title="选择系统动画"
+        android:defaultValue="1"
+        android:entries="@array/xtdh"
+        android:entryValues="@array/xtdh_values"
+        android:key="xtdh" />
+    <PreferenceScreen
+        android:key="cksd" />
+    <PreferenceScreen
+        android:key="dhsf" />
+    <PreferenceScreen
+        android:key="scsf" />
+    <PreferenceScreen
+        android:key="xfss" />
+
+    <PreferenceCategory android:title="@string/other" />
+    <CheckBoxPreference
+        android:key="ggpb" />
+    <CheckBoxPreference
+        android:key="hide" />
+    <PreferenceScreen
+        android:key="wifi" />
+    <CheckBoxPreference
+        android:key="ycmg" />
+
+
+
+    <PreferenceCategory android:title="@string/xt" />
+    <ListPreference
+        android:title="选择重启方式"
+        android:defaultValue="1"
+        android:entries="@array/gjcq"
+        android:entryValues="@array/gjcq_values"
+        android:key="gjcq" />
+    <CheckBoxPreference
+        android:key="yysd" />
+    <PreferenceScreen
+        android:key="yydj" />
+    <PreferenceScreen
+        android:key="yjjj" />
+
+
+    <PreferenceCategory android:title="@string/syxgn" />
+    <PreferenceScreen
+        android:key="wk" />
+
+
+    <PreferenceCategory android:title="@string/dc" />
+    <CheckBoxPreference
+        android:key="jzcd" />
+    <PreferenceScreen
+        android:key="dlwz" />
+    <PreferenceScreen
+        android:key="dcjz" />
+
+
+    <PreferenceCategory android:title="@string/sy" />
+    <CheckBoxPreference
+        android:key="dylj" />
+    <CheckBoxPreference
+        android:key="dydk" />
+    <CheckBoxPreference
+        android:key="ddl" />
+
+    <PreferenceCategory android:title="@string/jj" />
+    <PreferenceScreen
+        android:key="tzrz" />
+    <PreferenceScreen
+        android:key="hdqx" />
+
+
+    <PreferenceCategory android:title="@string/author" />
+    <PreferenceScreen
+        android:key="ca" />
+    <PreferenceScreen
+        android:key="qqq" />
+    <PreferenceScreen
+        android:key="gw" />
+    <PreferenceScreen
+        android:key="wx" />
+    <PreferenceScreen
+        android:key="jz" />
+    <PreferenceScreen
+        android:key="bbh"
+        android:summary="3.5.0"/>
+
+    <PreferenceCategory android:title="@string/tgfw" />
+</PreferenceScreen>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gjcq">gjcq
+        <item>正常重启</item>
+        <item>Recovery</item>
+        <item>FastBoot</item>
+        <item>重启系统UI</item>
+    </string-array>
+
+    <string-array name="gjcq_values">gjcq_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="xtdh">xtdh
+        <item>官方默认</item>
+        <item>极速残影</item>
+        <item>滑入滑出</item>
+        <item>3D特效</item>
+        <item>抖动特效</item>
+        <item>DX8特效</item>
+        <item>飞来飞去</item>
+        <item>匿名特效</item>
+        <item>飘来飘去</item>
+        <item>超炫特效</item>
+        <item>翻转特效</item>
+        <item>上中下特效</item>
+    </string-array>
+
+    <string-array name="xtdh_values">xtdh_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="model">model
+        <item>官方默认</item>
+        <item>小米9</item>
+        <item>小米8</item>
+        <item>小米 MIX3</item>
+        <item>小米 MIX2S</item>
+
+    </string-array>
+
+    <string-array name="model_values">model_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="sjys">sjys
+        <item>默认样式</item>
+        <item>星期 时间</item>
+        <item>农历 时间</item>
+        <item>年-月-日 星期 时间</item>
+        <item>农历 年-月-日 星期 时间</item>
+        <item>农历 星期 时间</item>
+    </string-array>
+
+    <string-array name="sjys_values">sjys_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="tqbj">tqbj
+        <item>状态栏图标上方（横屏不完美，不限DPI）</item>
+        <item>状态栏图标左侧（横屏完美，需小DPI）</item>
+        <item>关闭状态栏天气</item>
+    </string-array>
+
+    <string-array name="tqbj_values">tqbj_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="sim">sim
+        <item>全部显示</item>
+        <item>仅隐藏SIM卡1</item>
+        <item>仅隐藏SIM卡2</item>
+    </string-array>
+
+    <string-array name="sim_values">sim_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="xmqh">xmqh
+        <item>官方</item>
+        <item>官方+显秒</item>
+        <item>居中+左侧网速</item>
+        <item>居中+左侧网速+显秒</item>
+        <item>居中+右侧网速</item>
+        <item>居中+右侧网速+显秒</item>
+    </string-array>
+
+    <string-array name="xmqh_values">xmqh_values
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+</resources>

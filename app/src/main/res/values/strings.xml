@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simplicity Tools</string>
+    <string name="author">关于</string>
+    <string name="wifi">WIFI密码</string>
+    <string name="ztl">状态栏</string>
+    <string name="other">其他功能</string>
+    <string name="zm">桌面（某些主题不兼容）</string>
+    <string name="ksct">快速磁贴（某些主题不兼容）</string>
+    <string name="xs">显示</string>
+    <string name="syxgn">实验性功能</string>
+    <string name="xt">系统</string>
+    <string name="hy">黑域</string>
+    <string name="jj">捷径</string>
+    <string name="dc">电池</string>
+    <string name="yydj">应用冻结</string>
+    <string name="djkg">冻结开关</string>
+    <string name="tgfw">LittleTurtle网络科技 提供技术支持</string>
+    <string name="sy">声音</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="suoping">锁屏</string>
+</resources>

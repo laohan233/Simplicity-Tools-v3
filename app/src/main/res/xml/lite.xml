@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/yydj"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:key="diy">
+        <PreferenceScreen
+            android:key="cust" />
+    </PreferenceCategory>
+    <PreferenceCategory android:key="switch" >
+        <CheckBoxPreference
+            android:key="updater" />
+        <CheckBoxPreference
+            android:key="bugreport" />
+        <CheckBoxPreference
+            android:key="wallet" />
+        <CheckBoxPreference
+            android:key="email"/>
+        <CheckBoxPreference
+            android:key="virtualsim" />
+        <CheckBoxPreference
+            android:key="remotecontroller" />
+        <CheckBoxPreference
+            android:key="shop" />
+        <CheckBoxPreference
+            android:key="compass" />
+        <CheckBoxPreference
+            android:key="calculator" />
+        <CheckBoxPreference
+            android:key="browser" />
+        <CheckBoxPreference
+            android:key="soundrecorder" />
+        <CheckBoxPreference
+            android:key="calendar" />
+        <CheckBoxPreference
+            android:key="video" />
+        <CheckBoxPreference
+            android:key="player" />
+        <CheckBoxPreference
+            android:key="notes"/>
+        <CheckBoxPreference
+            android:key="weather2" />
+    </PreferenceCategory>
+</PreferenceScreen>
