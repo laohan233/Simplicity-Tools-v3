@@ -3,11 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "Simplicity.LT.Tools"
+        applicationId "RoaldMIUI.LT.Tools"
         minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
-        versionName '3.5.0'
+        versionName 'Roald settings V1'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -16,7 +16,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
-    buildToolsVersion = '29.0.2'
+    buildToolsVersion = 'V1'
 }
 
 dependencies {
